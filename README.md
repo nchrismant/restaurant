@@ -92,7 +92,7 @@ Le projet a pour but de :
 | **MySQL**           | Base de données |
 | **Talend**          | ETL |
 | **Python**          | Application du restaurant et traitement d'images |
-| **C**               | Traitement d'images |
+| **C** & **C++**               | Traitement d'images |
 
 ---
 
